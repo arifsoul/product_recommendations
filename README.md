@@ -8,9 +8,8 @@
 
 <body>
     <h1>Product Recommendation System</h1>
-    <p>This is a Streamlit web application that recommends products based on customer interactions. 
-    <a href="https://appuctrecommendations-skilvul.streamlit.app/">Product Recommendations</a>
-    </p>
+    <p>This is a Streamlit web application that recommends products based on customer interactions.</p>
+    <p><a href="https://appuctrecommendations-skilvul.streamlit.app/">Click here</a> for use the application</p>
     <h2>Usage</h2>
     <ol>
         <li>Clone this repository.</li>
