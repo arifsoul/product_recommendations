@@ -29,7 +29,7 @@
     │   ├── customer_interactions.csv
     │   ├── product_details.csv
     │   └── purchase_history_extend.csv
-    ├── app.py
+    ├── ai.py
     └── requirements.txt
     </pre>
     <h2>License</h2>
