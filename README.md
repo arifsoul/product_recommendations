@@ -3,15 +3,14 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">>
 </head>
 
 <body>
     <h1>Product Recommendation System</h1>
-    <p>This is a Streamlit web application that recommends products based on customer interactions.
-    <a href="[https://appuctrecommendations-skilvul.streamlit.app/)"> Product Recommendations</a></p>
-    
-
+    <p>This is a Streamlit web application that recommends products based on customer interactions. 
+    <a href="https://appuctrecommendations-skilvul.streamlit.app/">Product Recommendations</a>
+    </p>
     <h2>Usage</h2>
     <ol>
         <li>Clone this repository.</li>
@@ -32,7 +31,7 @@
     │   ├── customer_interactions.csv
     │   ├── product_details.csv
     │   └── purchase_history_extend.csv
-    ├── ai.py
+    ├── app.py
     └── requirements.txt
     </pre>
     <h2>License</h2>
