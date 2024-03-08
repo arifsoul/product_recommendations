@@ -3,13 +3,13 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product Recommendation System</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">>
 </head>
 
 <body>
     <h1>Product Recommendation System</h1>
     <p>This is a Streamlit web application that recommends products based on customer interactions.</p>
+    <p><a href="https://appuctrecommendations-skilvul.streamlit.app/">Click here</a> to use the application</p>
     <h2>Usage</h2>
     <ol>
         <li>Clone this repository.</li>
