@@ -1,0 +1,8 @@
+cvzone==1.6.1
+ipykernel==6.26.0
+mediapipe==0.10.8
+pip-chill==1.0.3
+pyinstaller==6.2.0
+scikit-image==0.22.0
+scikit-learn==1.4.1.post1
+streamlit==1.31.1
